@@ -1,4 +1,4 @@
-# 🏆 BreatheAI - Hackathon Winner
+# 🏆 RespireAI - Hackathon Winner
 
 **AI-Powered Respiratory Sound Analysis for Early Disease Detection**
 
